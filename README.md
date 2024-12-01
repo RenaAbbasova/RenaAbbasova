@@ -28,6 +28,9 @@ Hi there! I'm Rena, an enthusiastic learner and aspiring Data Scientist & Full S
 
 ---
 
+<div align="center">
+  <img src="assets/banner.gif" alt="Rena: Exploring the synergy of data and code" />
+</div>
 
 
 
