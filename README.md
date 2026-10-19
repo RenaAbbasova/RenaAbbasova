@@ -1,42 +1,39 @@
-# 🌟 Welcome to My World of Code and Data!
+# Hi, I'm Rena 👋
 
-Hi there! I'm Rena, an enthusiastic learner and aspiring Data Scientist & Full Stack Developer. I blend creativity, logic, and data to craft solutions that matter. 🚀
+**Developer with a finance background, working with data, backend and automation.** Based in Pamplona, Spain.
 
-## 🔭 About Me
-- 🎓 Background: Exploring the intersection of data and software, one project at a time.
-- 🌱 Currently Learning:
-  - 📊 Data Science: Deepening my understanding of Machine Learning, Statistics, and predictive modeling.
-  - 💻 Full Stack Development: Mastering Node.js and RESTful APIs to build seamless web applications.
-- 🎯 Focus Areas: Creating data-driven web solutions that make complex insights accessible and actionable.
-- 💡 Fun Fact: To me, code and data are like two languages of storytelling—bridging creativity and logic to solve real-world problems.
+I like turning raw, disconnected data and processes into systems that work: data pipelines, APIs and automation. Nearly four years in finance, then data science, then software and process automation (over a year at Tracasa Instrumental).
 
-##
-<h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/rena" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" />
-  </a>
-</p>
+🌐 [Portfolio](https://renaabbasova.github.io) · 💼 [LinkedIn](https://linkedin.com/in/rena) · 📊 [Tableau Public](https://public.tableau.com/app/profile/rena7178) · ✉️ abbasova.r@gmail.com
 
----
+## Featured projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+| Project | What it is |
+|---|---|
+| [**NavAgro**](https://github.com/RenaAbbasova/NavAgro) · [live dashboard](https://renaabbasova.github.io/NavAgro/) | AI analytics for agricultural land use in Navarra: Sentinel-2 imagery, official statistics and an honest benchmark. |
+| [**EV Battery Data Pipeline**](https://github.com/RenaAbbasova/battery-data-cleaning) | Battery telemetry pipeline: quarantine and quality gate, time series, forecast with backtest, orchestrated with Prefect and served through a FastAPI REST API. 100 tests. |
+| [**Telecom churn prediction**](https://github.com/RenaAbbasova/Telecom-project) | Split-first pipeline, model comparison and honest evaluation: XGBoost reaches 0.90 ROC-AUC on held-out data. |
+| [**Employee attrition: PyTorch vs simple models**](https://github.com/RenaAbbasova/Employee_Attrition_Prediction) | A neural network on a fictional IBM dataset: it matches a logistic regression (ROC-AUC 0.83) without beating it. The first version's 87% accuracy came from flagging nobody. |
+| [**Fake-news classifier**](https://github.com/RenaAbbasova/FakeNews_Detector) | 98.6% accuracy that mostly measures publisher style and topic: it falls to 44% on topics it has never seen. |
+| [**Tesla next-day forecast**](https://github.com/RenaAbbasova/Tesla_stock_prediction) | ARIMA and LSTM against the naive baseline: no model beats "tomorrow = today", and the data explains why. |
 
+### Web and tools
 
+| Project | What it is |
+|---|---|
+| [**API Plugin Generator**](https://github.com/RenaAbbasova/Api_Plugin_Generator) | Generates WordPress, Chrome and Firefox plugins from a form. Reviewed and hardened: request forgery, code injection and path traversal fixed, with 162 tests. |
+| [**Data API Fetcher**](https://github.com/RenaAbbasova/Data_Api_Fetcher_Extension) | Chrome extension (Manifest V3) that keeps the last good data when you are offline. 67 tests. |
+| [**Actor agency website**](https://github.com/RenaAbbasova/Actor_Agency_Website) · [live demo](https://renaabbasova.github.io/Actor_Agency_Website/) | Accessible, responsive site in plain HTML, CSS and JavaScript: 88 KB, no violations in an automated accessibility check. |
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renaabbasova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renaabbasova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
+More: [flight ticket prices](https://github.com/RenaAbbasova/Flight_Price_Prediction) · [price elasticity](https://github.com/RenaAbbasova/Price_optimization) · [autism screening data](https://github.com/RenaAbbasova/Autism_Traits_Prediction) · [e-commerce segmentation](https://github.com/RenaAbbasova/Ecommerce_Customer_Segmentation) · [Airbnb Istanbul](https://github.com/RenaAbbasova/Data_Story_Telling)
 
----
+Most of these started as coursework (Upgrade Hub, Learnbay, Albañiles Digitales) and were reworked afterwards. Each README says what changed from the first version.
 
+## What I work with
 
+- **Data:** Python, SQL, Pandas, scikit-learn, XGBoost, PyTorch, Tableau, Power BI
+- **Backend & automation:** FastAPI, Node.js, Express, REST APIs, Prefect, pytest, Power Automate Desktop
+- **Web:** HTML, CSS, JavaScript, TypeScript, Next.js
+- **Geospatial:** Google Earth Engine, Sentinel-2, GeoPandas
 
-
-
-
-
-
-
+I care about data quality and honest evaluation: I would rather report that a model does not beat a simple baseline than show a flattering number. Each project README says what the data can and cannot support.
